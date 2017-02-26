@@ -54,13 +54,9 @@
     "name": "xlsx",
     "optionalDependencies": {},
     "readme": "ERROR: No README data found!",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/SheetJS/js-xlsx.git"
-    },
     "scripts": {
         "pretest": "git submodule init && git submodule update",
         "test": "make test"
     },
-    "version": "0.8.0"
+    "version": "1.0.0"
 }
